@@ -1,0 +1,15 @@
+nav{
+    width: 100vw;
+    background: #FD8701;
+    height: 15vh;
+    display: flex;
+    font-size: 40px;
+    font-family: 'Poppins', sans-serif;
+    align-items: center;
+    box-shadow: 0 0 10px 5px rgba(0,0,0,0.2);
+}
+
+.logo{
+    width: 100px;
+    margin: 0px 25px;
+}

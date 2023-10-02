@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+    margin: 10px;
+}
+
+.desc, .price{
+   padding-left: 25px;
+}
+
+.light{
+    color: #918E9B;
+}
+
+.bold{
+    font-weight: 600;
+}
+
+/* .status{
+    position: relative;
+    background-color: white;
+    padding: 6px 12px;
+    border-radius: 5px;
+    top: 100px;
+    display: inline; 
+} */
